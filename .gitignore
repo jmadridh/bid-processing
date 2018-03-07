@@ -29,7 +29,7 @@ mule-project.xml
 .mule
 catalog
 .classpath
-.auction/
+auction
 
 #-----------#
 # Mac Files #
